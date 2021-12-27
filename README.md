@@ -4,7 +4,6 @@
 Algumas informações para você me conhecer melhor:
 
 - 🔭 Atualmente sou funcionário do Banco do Brasil e presto serviços de desenvolvimento como freelancer
-- 🌱 Atualmente estou aprendendo React e React Native
 - 👯 Estou disponível para trabalhos part-time (até 20 horas semanais)
 - 💬 Contatos: 61 98333-3335 ou bb.roger.bb@gmail.com
 
@@ -13,7 +12,10 @@ Algumas informações para você me conhecer melhor:
 </a>
 
 ### Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width=50 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width=50 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=50/>
+
+### Aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=50/>
 
 ### Estatísticas GitHub
 
