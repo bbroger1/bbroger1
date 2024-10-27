@@ -12,7 +12,7 @@ Algumas informações para você me conhecer melhor:
 </a>
 
 ### Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=50/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/laravel/laravel-line.svg" width=50 /> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-plain.svg" width=50/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/bootstrap/bootstrap-plain.svg" width=50/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=50/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/laravel/laravel-line.svg" width=50 /> <img src="[https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/python/python-plain.svg](https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/bootstrap/bootstrap-original.svg)" width=50/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/bootstrap/bootstrap-plain.svg" width=50/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=50/> 
 
 
